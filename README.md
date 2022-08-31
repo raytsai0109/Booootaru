@@ -18,4 +18,4 @@ prefix = !
 
 !lineup + !football+money 玩射龍門 /是 還是在賭錢
 
-大概就這樣其他忘了
+大概就這樣其他到 cmd/maindoc 找
